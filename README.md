@@ -2,7 +2,7 @@
 
 A web app that lets users input at least four ingredients they have on hand to instantly generate a recipe using those ingredients via an external API.
 
-![Desktop Design](./design/desktop-design.png)
+![Desktop Design](./desing/desktop-design.png)
 
 ## Table of contents
 
