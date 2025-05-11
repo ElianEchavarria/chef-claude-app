@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 👨‍🍳 Elian Echaarria / Next.js - Chef Claude Web App
 
-## Getting Started
+A web app that lets users input at least four ingredients they have on hand to instantly generate a recipe using those ingredients via an external API.
 
-First, run the development server:
+![Desktop Design](./desing/desktop-design.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Table of contents
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Overview
 
-## Learn More
+### The challenge
 
-To learn more about Next.js, take a look at the following resources:
+Users should be able to:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Add ingredients they have on hand
+- Remove individual ingredients from the list
+- Enable the "Get Recipe" button once 4 or more ingredients are added
+- Fetch a recipe from an external API based on the provided ingredients
+- View the recipe's image, title, ingredients, and instructions
+- Experience a responsive layout optimized for various screen sizes
+- See hover and focus states for all interactive elements
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Links
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Live Site URL: [Chef Claude Live](https://elianechavarria.github.io/chef-claude-webapp/)  
+
+---
+
+## My process
+
+### Built with
+
+- **Next.js** (App Router)
+- **Tailwind CSS**
+- **React Hooks**
+- **Mobile-first responsive layout**
+- **Spoonacular API** (or another recipe API)
+
+---
+
+## Author
+
+- [Elian Echaarria on GitHub](https://github.com/ElianEchavarria)
+
+---
+
