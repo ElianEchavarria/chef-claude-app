@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Chef Claude Live](https://elianechavarria.github.io/chef-claude-webapp/)  
+- Live Site URL: [Chef Claude Live]([https://vercel.com/elianechavarrias-projects/chef-claude-app])  
 
 
 ---
